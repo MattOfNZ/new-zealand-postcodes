@@ -1,6 +1,8 @@
 # new-zealand-postcodes
 
-A (complete?) set of New Zealand postcodes, extracted from the OpenStreetMap Nominatim database. Updated regularly to ensure new entries are captured.
+A (complete?) set of New Zealand postcodes, extracted from the OpenStreetMap Nominatim database.
+
+## Last Updated:  Early September, 2021 (ad-hoc)
 
 ## OpenStreetMap
 
